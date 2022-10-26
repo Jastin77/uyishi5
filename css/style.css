@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(0, 251, 255);
+    color: white;
+    padding-left: 32%;
+    
+}
+.div-2{
+    text-align: bottom;
+    margin-top: 60px;
+}
+.div-1{
+    border: 2px solid white;
+    background-color: black;
+    width: 550px;
+    height: 310px;
+    
+}
+h1{
+    text-align: center;
+}
+h3,  .li{
+    margin-top: 5px;
+}
+h3, .p{
+    padding-left: 20px;
+}
+
+.p-next{
+    background-color: white;
+    text-align: center;
+    color:rgb(81, 78, 78);
+    width: 50px;
+    height: 20px;
+    
+}
+.ul-li{
+    
+    list-style-type: none;
+    text-align: end;
+    margin-bottom: 10px;
+    padding-left: 80%;
+}
+
+.p-made{
+    color: black;
+    padding-left: 20%;
+}
+.h4-robo{
+    color: black;
+    text-align: center;
+}
+
+

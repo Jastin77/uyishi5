@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(182, 10, 154);
+    /* width: 100%; */
+}
+p{
+    font-size: 80px;
+    /* padding-top: 0px; */
+    /* padding-bottom: 0px; */
+    text-align: center;
+    padding:  350px;
+    color: aliceblue;
+}
